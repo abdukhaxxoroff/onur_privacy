@@ -80,7 +80,7 @@ We will let You know via email and/or a prominent notice on Our Service, prior t
 Contact Us
 If you have any questions about this Privacy Policy, You can contact us:
 
-By email: abdukhaxxoroff@gmail.com@gmail.com
+By email: abdukhaxxoroff@gmail.com
 
 This should cover all necessary disclosures for using Google Analytics and ensure that your app complies with privacy regulations, especially regarding data collection and sharing.
 
